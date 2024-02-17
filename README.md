@@ -1,2 +1,2 @@
 # Contoso-Pizza
- CRUD pizza app
+ CRUD pizza app using dot net 8. (no database)
